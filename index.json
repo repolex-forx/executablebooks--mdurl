@@ -1,0 +1,11 @@
+{
+  "org": "executablebooks",
+  "repo": "mdurl",
+  "versions": [
+    {
+      "commit": "524d2edbbcb8bb48301ba716c7482827bcabb281",
+      "tag": "",
+      "parsed_at": "2026-10-12T19:39:37.462416+00:00"
+    }
+  ]
+}
