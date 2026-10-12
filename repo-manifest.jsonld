@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/mdurl/commit/524d2edbbcb8bb48301ba716c7482827bcabb281",
       "git:hexsha": "524d2edbbcb8bb48301ba716c7482827bcabb281",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T19:39:37.421393+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/mdurl/commit/e259d3cff6c7e9a52b6f55eb2412243d895a74a6",
